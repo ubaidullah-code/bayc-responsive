@@ -1,0 +1,300 @@
+/* Screen Size 1400px check */
+@media (max-width: 1660px) {
+    .main-img img{
+        box-shadow: 20px 20px 60px  #ceebeb67, inset -20px -20px 60px #ceebeb67 ;
+    }
+}
+
+ /* Screen Size 1200px check */
+@media (max-width: 1399px) {
+    
+}
+
+ /* Screen Size 992px check */
+@media (max-width: 1199px) {
+
+}
+
+ /* Screen Size 768px check */
+@media (max-width: 991px) {
+.main-1{
+    display: flex;
+    align-items: center;
+
+}
+.venom{
+    display:flex ;
+    align-items: center;
+}
+}
+
+ /* Screen Size 576px check */
+@media (max-width: 767px) {
+ 
+ 
+    .container ol{
+    column-gap: 1%;
+ }
+
+ .container img{
+    width: 120px;
+    height: 55px;
+   
+}
+/* .main-img img{
+    box-shadow: 20px 20px 60px #f2f2f2f2 , inset -20px -20px 60px #ceebeb3d ;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .para p{
+    width: 40vw;
+   }
+ 
+    .icon-5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .extra-1
+    {
+        text-align: center;
+    }
+ .main-img img{
+    text-align: center;
+    display: flex;
+    margin: auto;
+     height: 50vh;
+    /* width: 60vw;  */
+
+ }
+    .main-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .images img{
+    width: 150px;
+    height: 150px;
+ }
+ .para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+ }
+article{
+    padding: 10px;
+}
+.venom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.venom-1{
+text-align: justify;
+}
+.venom-2{
+    margin-top: 25px;
+}
+.rdj{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rdj-1{
+
+text-align: justify;
+
+display: flex;
+
+}
+.rdj-2{
+display: flex;
+flex-direction: column;
+font-size: 16px;
+text-align: center ;
+}
+.mm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mm-1{
+    text-align: justify;
+}
+ h1{
+    text-align: center;
+}
+
+.mm-2{
+    margin-top: 25px;
+}
+.fast{
+    display: flex;
+    align-items: center;
+}
+.fast p{
+    text-align: justify;
+}
+.iron{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.iron-2{
+    margin-top: 25px;
+}
+
+    
+.rdj-45{
+    display: flex;
+  
+}
+
+
+.rdj-54{
+    display: flex;
+    
+} 
+
+}
+
+ /* Screen Size All mobile check */
+@media (max-width: 575px) {
+
+ 
+    .venom-2 img{
+    width: 320px;
+    height: 320px;
+ }
+    article p{
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+    }
+    .container img{
+        width: 100px;
+        height: 40px;
+    }
+    .container ol{
+        column-gap: 0.5%;
+     }
+    
+    
+ 
+    .extra-1
+    {
+        text-align: center;
+    }
+ .main-img img{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    height: 50vh;
+    /* width: 60vw;  */
+
+ }
+ 
+ 
+    .main-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+ }
+article{
+    padding: 10px;
+}
+.venom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.venom-1{
+text-align: justify;
+}
+.venom-2{
+    margin-top: 25px;
+}
+.rdj{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rdj-1{
+
+text-align: justify;
+
+display: flex;
+
+}
+.rdj-2{
+display: flex;
+flex-direction: column;
+font-size: 16px;
+text-align: center ;
+}
+.mm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mm-1{
+    text-align: justify;
+}
+ h1{
+    text-align: center;
+}
+.mm-2{
+    margin-top: 25px;
+}
+.mm-2 img{
+    filter: drop-shadow(10px 10px 20px azure );
+}
+.fast{
+    display: flex;
+    align-items: center;
+}
+.fast p{
+    text-align: justify;
+}
+.iron{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.iron-2{
+    margin-top: 25px;
+}
+
+}
